@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Timetable</string>
+    <string name="add_new_timetable">Add new timetable</string>
+    <string name="week_view">Week View</string>
+    <string name="day_view">Day View</string>
+    <string name="edit">Edit</string>
+    <string name="more_options_on_lesson">More options on lesson</string>
+    <string name="save_lesson">Save lesson</string>
+    <string name="course_name">Course Name</string>
+    <string name="course_code">Course Code</string>
+    <string name="venue">Venue</string>
+    <string name="lecturer">Lecturer</string>
+    <string name="mon">Mon</string>
+    <string name="tue">Tue</string>
+    <string name="wed">Wed</string>
+    <string name="thu">Thu</string>
+    <string name="fri">Fri</string>
+    <string name="sat">Sat</string>
+    <string name="sun">Sun</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="to">to</string>
+    <string name="undo">Undo</string>
+    <string name="new_task">New Task</string>
+    <string name="task_deleted">TASK DELETED</string>
+    <string name="my_day">Hi ! This is your Day</string>
+    <string name="days">Days</string>
+    <string name="remind_before">Minutes before reminder: </string>
+    <string name="new_lesson">New Lesson</string>
+    <string name="no_reminder_set">No reminder set.</string>
+    <string name="notification_title">Timetable: Reminder</string>
+    <string name="saved">Saved</string>
+    <string name="activities_for">Activities for %1$s</string>
+    <string name="no_items_here">No items here.</string>
+    <string name="click_the_icon_to_add_an_item">Click the + icon to add an item.</string>
+
+    <string name="banner_ad_unit_id_test">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="banner_ad_unit_id">ca-app-pub-9485903417823396/2513727903</string>
+
+</resources>
